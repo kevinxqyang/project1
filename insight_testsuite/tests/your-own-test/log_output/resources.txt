@@ -1,0 +1,10 @@
+/ HTTP/1.0
+/images/NASA-logosmall.gif HTTP/1.0
+/images/KSC-logosmall.gif HTTP/1.0
+/shuttle/countdown/ HTTP/1.0
+/images/ksclogo-medium.gif HTTP/1.0
+/images/MOSAIC-logosmall.gif HTTP/1.0
+/images/WORLD-logosmall.gif HTTP/1.0
+/images/USA-logosmall.gif HTTP/1.0
+/images/launch-logo.gif HTTP/1.0
+/shuttle/countdown/count.gif HTTP/1.0
